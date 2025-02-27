@@ -9,21 +9,11 @@
 - **Tools & Platforms**: Git, Docker, Kubernetes, AWS, GCP, Jupyter, VSCode
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
-## 📊 Projects
-
-### 1. [Project Name](link)
-Description of the project and what technologies were used.
-
-### 2. [Project Name](link)
-Description of the project and what technologies were used.
-
-### 3. [Project Name](link)
-Description of the project and what technologies were used.
 
 ## 📚 Education
 
-- **Master's in Data Science** - University Name (Year-Year)
-- **Bachelor's in Computer Science** - University Name (Year-Year)
+- **Master's in Data Science** - Cairo University  (2024-Present)
+- **Bachelor's in Computer Engineering** - Benha University  (2018-2023)
 
 ## 📫 How to reach me
 
