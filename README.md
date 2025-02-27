@@ -37,7 +37,7 @@
 <br clear="both">
 
 - **Dark Mode**:
-  ![Snake Animation (Dark)](https://github.com/mahmoudmousa-ds/mahmoudmousa-ds/blob/gh-pages/github-snake-dark.svg)
+  ![Snake Animation (Dark)](https://github.com/mahmoudmousa-ds/mahmoudmousa-ds/blob/gh-pages/github-snake.svg)
 
   ###
 
