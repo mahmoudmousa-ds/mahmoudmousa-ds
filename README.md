@@ -36,8 +36,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/mahmoudmousa-ds/mahmoudmousa-ds/blob/output/github-contribution-grid-snake.svg)
-
+![Snake Animation (Dark)](https://mahmoudmousa-ds.github.io/mahmoudmousa-ds/github-snake-dark.svg)
 ###
 
 Feel free to reach out if you want to collaborate on a project or just chat about data science and technology!
