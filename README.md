@@ -34,7 +34,10 @@
 - Open Source Contributions
 - AI and Robotics
 
-![Snake animation](https://github.com/mahmoudmousa-ds/mahmoudmousa-ds/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/output/snake.svg" alt="Snake animation" />
+
+###
 
 Feel free to reach out if you want to collaborate on a project or just chat about data science and technology!
