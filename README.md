@@ -34,6 +34,7 @@
 - Open Source Contributions
 - AI and Robotics
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 Feel free to reach out if you want to collaborate on a project or just chat about data science and technology!
