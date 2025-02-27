@@ -1,44 +1,41 @@
-# Mahmoud Mousa
+<h2 align="left">👋 Hi there! I am Mahmoud Mousa, a passionate data scientist and software developer. I love exploring data, creating models, and building software solutions to solve real-world problems.</h2>
 
-👋 Hi there! I am Mahmoud Mousa, a passionate data scientist and software developer. I love exploring data, creating models, and building software solutions to solve real-world problems.
+###
 
-## 🔧 Technologies & Tools
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudmousa-ds&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudmousa-ds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-- **Languages**: Python, R, SQL, JavaScript
-- **Libraries & Frameworks**: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Plotly, Flask, React
-- **Tools & Platforms**: Git, Docker, Kubernetes, AWS, GCP, Jupyter, VSCode
-- **Databases**: MySQL, PostgreSQL, MongoDB
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-## 📚 Education
-
-- **Master's in Data Science** - Cairo University  (2024-Present)
-- **Bachelor's in Computer Engineering** - Benha University  (2018-2023)
-
-## 📫 How to reach me
-
-- **Email**: [mahmoudmosaadmousa@gmail.com](mailto:mahmoudmosaadmousa@gmail.com)
-- **LinkedIn**: [Mahmoud Mousa](https://www.linkedin.com/in/mahmoudmousa)
-- **GitHub**: [mahmoudmousa-ds](https://github.com/mahmoudmousa-ds)
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning Techniques
-- Cloud Computing and DevOps
-- Data Engineering
-
-## 💡 Interests
-
-- Data Science and Machine Learning
-- Software Development
-- Open Source Contributions
-- AI and Robotics
+###
 
 <br clear="both">
 
-- **Dark Mode**:
-  ![Snake Animation (Dark)](https://github.com/mahmoudmousa-ds/mahmoudmousa-ds/blob/gh-pages/github-snake.svg)
+<img src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/output/snake.svg" alt="Snake animation" />
 
-  ###
+###
 
-Feel free to reach out if you want to collaborate on a project or just chat about data science and technology!
+<div align="left">
+  <a href="https://www.linkedin.com/in/mahmoudmousa-ds/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
