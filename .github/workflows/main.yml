@@ -1,25 +1,57 @@
-name: Generate Datas
+name: Generate Visualizations
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0,12 * * *"  # Run at 00:00 and 12:00 UTC every day (every 12 hours)
+  workflow_dispatch:  # Allow manual triggering
+  push:  # Run on pushes to the default branch
+    branches:
+      - main
+
+# Grant permissions for pushing to the repository (e.g., to the output branch)
+permissions:
+  contents: write
+
 jobs:
-  build:
-    name: Jobs to update datas
+  generate-and-publish:
+    name: Generate and Publish Visualizations
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-steps:
-  - uses: Platane/snk@master
-    id: snake-gif
-    with:
-      github_user_name: mahmoudmousa-ds
-      svg_out_path: dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up the dist directory for output files
+      - name: Create Output Directory
+        run: mkdir -p dist
+
+      # Step 3: Generate Dark Mode Snake Animation
+      - name: Generate Dark Mode Snake Animation
+        uses: Platane/snk@v3  # Pin to a specific version (check for the latest if needed)
+        id: snake-dark
         with:
-          target_branch: output
+          github_user_name: mahmoudmousa-ds
+          svg_out_path: dist/github-snake-dark.svg
+
+      # Step 4: Generate Light Mode Snake Animation (optional, for flexibility)
+      - name: Generate Light Mode Snake Animation
+        uses: Platane/snk@v3
+        id: snake-light
+        with:
+          github_user_name: mahmoudmousa-ds
+          svg_out_path: dist/github-snake-light.svg
+
+      # Step 5: Log Generated Files (for debugging)
+      - name: List Generated Files
+        run: |
+          echo "Generated files in dist directory:"
+          ls -la dist/
+
+      # Step 6: Publish to GitHub Pages
+      - name: Publish to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4  # Use the latest version (verify on GitHub)
+        with:
+          target_branch: gh-pages  # Changed to the conventional branch for GitHub Pages
           build_dir: dist
+          keep_history: true  # Preserve commit history on the gh-pages branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
