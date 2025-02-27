@@ -36,7 +36,9 @@
 
 <br clear="both">
 
-![Snake Animation (Dark)](https://mahmoudmousa-ds.github.io/mahmoudmousa-ds/github-snake-dark.svg)
-###
+- **Dark Mode**:
+  ![Snake Animation (Dark)](https://github.com/mahmoudmousa-ds/mahmoudmousa-ds/blob/gh-pages/github-snake-dark.svg)
+
+  ###
 
 Feel free to reach out if you want to collaborate on a project or just chat about data science and technology!
