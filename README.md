@@ -81,7 +81,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/refs/heads/main/ml.gif"  />
+<img align="center" height="150" src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/refs/heads/main/ml.gif"  />
 
 ###
 
