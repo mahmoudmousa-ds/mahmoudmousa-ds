@@ -11,11 +11,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudmousa-ds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
+
+###
+# 💻 Tech Stack:
 <img align="right" height="200" src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/refs/heads/main/ml.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
