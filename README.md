@@ -1,4 +1,5 @@
-<h2 align="left">👋 Hi there! I am Mahmoud Mousa, a passionate data scientist and software developer. I love exploring data, creating models, and building software solutions to solve real-world problems.</h2>
+<h2 align="left">👋 Hi World! I am Mahmoud Mousa,
+  a passionate data scientist and software developer. I love exploring data, creating models, and building software solutions to solve real-world problems.</h2>
 
 ###
 
