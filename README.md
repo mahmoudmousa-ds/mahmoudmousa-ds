@@ -88,6 +88,6 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/output/github-snake.svg" alt="Snake animation" />
 
 ###
