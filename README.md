@@ -81,7 +81,7 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*PuscwCsUr09xZ0SJ.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1qdHc4MWF5NzlhbjlpYnZ6YzRhbGJlcWR5YTBzaXE5YzIyNXQ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif"  />
 
 ###
 
