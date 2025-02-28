@@ -81,10 +81,11 @@
 
 ###
 
-<img align="none" height="150" src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/refs/heads/main/ml.gif"  />
+<div align="center">
+<img  height="150" src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/refs/heads/main/ml.gif"  />
+</div>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mahmoudmousa-ds/mahmoudmousa-ds/output/snake.svg" alt="Snake animation" />
