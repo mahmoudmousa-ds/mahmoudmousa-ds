@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!, I'm Mahmoud Mousa, a passionate data scientist | Machine Learning Engineer 👋🏼:</h2>
+<h2 align="left">Hello World!, I'm Mahmoud Mousa, a passionate Data Scientist | Machine Learning Engineer 👋🏼:</h2>
 
 ###
 
